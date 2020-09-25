@@ -1,0 +1,31 @@
+body{background-color: #FDFDFD;}
+#menu{text-align: center;
+    border-collapse: collapse;}
+    
+a{text-decoration: none;
+    font-family: 'Trebuchet MS',Arial, sans-serif;}
+
+a:link{color: white;}
+
+a:visited{color: white;}
+
+a:hover{color: #C2FFFC;}
+
+table{text-align: center;
+    border-collapse: collapse;}
+   
+#deb_ban{text-align: left; width: 100%;}
+img{display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+#parrafo{text-align: justify;
+    margin: 10px 200px;
+    font-size: 20px;
+    line-height: 25px;
+    font-family: 'Trebuchet MS',Arial, sans-serif;}
+
+#subtema{background-color: #E1E1E1;
+    padding: 30px 30px;
+    font-family: 'Trebuchet MS',Arial, sans-serif; text-align: center;
+    font-size: 25px;}
